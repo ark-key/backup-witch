@@ -2,7 +2,12 @@
 <h3 align="center">rclone backup automation tool</h3>
 
 <p align="center">
-  <a href="https://lgtm.com/projects/g/ark-key/backup-witch/context:python"><img alt="Language grade: Python" src="https://img.shields.io/lgtm/grade/python/g/ark-key/backup-witch.svg?logo=lgtm&logoWidth=18"/></a>
+  <a href="https://lgtm.com/projects/g/ark-key/backup-witch/context:python">
+    <img alt="Language grade: Python" src="https://img.shields.io/lgtm/grade/python/g/ark-key/backup-witch.svg?logo=lgtm&logoWidth=18"/>
+  </a>
+  <a href="https://codecov.io/gh/ark-key/backup-witch">
+    <img src="https://codecov.io/gh/ark-key/backup-witch/branch/master/graph/badge.svg?token=2A648Z07NO"/>
+  </a>
 </p>
 
 **backup-witch** is an easily configurable and extendable tool for performing continuous
